@@ -1,5 +1,6 @@
-<img align="center" style="margin-bottom:100px" width=100% src="" />
-&nbsp;
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gustavoguanabara/html-css/assets/141694339/ffa10217-6da7-4e39-b07c-1daaf5ed8f47" />
+&nbsp;&nbsp;&nbsp;
+
 ![Leonardocastr012's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardocastr012&show_icons=true&theme=holi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocastr012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
