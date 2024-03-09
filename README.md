@@ -1,15 +1,9 @@
-### Hi, I am Leonardo Castro 🖥️
-<p>I am a technology and finance enthusiast. Where I am currently studying the Front-end part and in parallel studying cryptocurrencies and the financial market. Furthermore, through university I had contact with languages such as Python, C, Java, Assembly and some technologies. </p>&nbsp;
-
+<img align="center" style="margin-bottom:100px" width=100% src="" />
+&nbsp;
 ![Leonardocastr012's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardocastr012&show_icons=true&theme=holi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocastr012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
  &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
