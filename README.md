@@ -3,7 +3,7 @@
 
 ![Leonardocastr012's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardocastr012&show_icons=true&theme=holi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocastr012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocastr012l)](https://github.com/anuraghazra/github-readme-stats)
  &nbsp;
 ## My Skills
 
