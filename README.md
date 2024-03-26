@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocastr012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  &nbsp;
-### My Skills
+## My Skills
 
 #### Main Stack:
 
