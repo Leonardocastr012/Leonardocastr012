@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/cloudcommunity/Free-Certifications/assets/141694339/5fb48626-6c8b-43f3-bc20-b27e7ca478a6" min-width="400px" max-width="400px" width="400px" align="right" alt="laptop-banner">
 
 #### Secondary Stack:
 
